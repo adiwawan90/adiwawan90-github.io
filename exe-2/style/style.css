@@ -1,0 +1,96 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-image: url(../images/tweed.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#wrapper {
+    width: 900px;
+    height: 550px;
+    /* background-color: salmon; */
+    margin: auto;
+    margin-top: 20px;
+
+}
+#wrapper h1{
+    font-size: 34px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: whitesmoke;
+}
+#wrapper #satu {
+    background-color: #9168b3;
+    height: 110px;
+    width: 750px;
+    margin-bottom: 20px;
+}
+#wrapper #satu img{
+    float: left;
+    margin-left: 25px;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+#wrapper #satu p {
+    padding-top: 20px;
+    padding-right: 10px;
+}
+#wrapper #dua {
+    background-color: #a8b368;
+    margin-bottom: 20px;
+    height: 110px;
+    width: 750px;
+    float: right;
+    clear: both;
+}
+#wrapper #dua img{
+    float: right;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-right: 25px;
+}
+#wrapper #dua p {
+    padding-top: 20px;
+    padding-left: 10px;
+    
+}
+#wrapper #tiga {
+    background-color: #b36c68;
+    margin-bottom: 20px;
+    height: 110px;
+    width: 750px;
+    clear: both;
+}
+#wrapper #tiga img{
+    float: left;
+    margin-left: 25px;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+#wrapper #tiga p {
+    padding-top: 20px;
+    padding-right: 10px;
+}
+#wrapper #empat {
+    background-color: #636363;
+    margin-bottom: 20px;
+    height: 110px;
+    width: 750px;
+    float: right;
+    clear: both;
+}
+#wrapper #empat img{
+    float: right;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-right: 25px;
+}
+#wrapper #empat p {
+    padding-top: 20px;
+    padding-left: 10px;
+}
